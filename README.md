@@ -1,5 +1,5 @@
-# Elegant hand ⌚
+# Ecommerce website Elegant hand ⌚
 
-### Responsive Watches Website ⌚
+### Watchmaking ⌚
 
 ![preview img](/preview.png)
